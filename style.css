@@ -1,0 +1,40 @@
+
+header {
+    background-color: #f7c12b;
+    color: #fff;
+    padding: 20px;
+    margin: 50px;
+    text-align: center;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    text-align: left;
+}
+
+main {
+    border: 10px solid #f7c12b;
+    padding: 10px;
+    margin: 50px;
+    text-align: left;
+}
+
+footer{
+    background-color: #f7c12b;
+    color: #fff;
+    padding: 20px;
+    margin: 50px;
+    text-align: center;
+}
+
+
+hr{
+    
+    border: 2px solid #f7c12b;
+}
+
+h2{
+    color: #f7c12b;
+    
+}
